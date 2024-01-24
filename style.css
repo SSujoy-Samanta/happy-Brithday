@@ -165,13 +165,13 @@ body{
 @media screen and (max-width:450px){
     .slides{
         width: 90%;
-        height: 200px;
+        height: 350px;
     
     }
     .slide-next{
-        top: 5rem;
+        top: 8rem;
     }
     .slide-prev{
-        top: 5rem;
+        top: 8rem;
     }
 }
